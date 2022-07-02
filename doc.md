@@ -26,3 +26,6 @@ Se Puede pasar un API_KEY por medio de los Query Param o en los Headers, y este 
 4. Access key + Secret Key
 
 
+
+Documentacion API
+https://docs.thecatapi.com/api-reference/favourites/favourites-post
